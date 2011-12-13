@@ -1,5 +1,5 @@
 """
-Solution to second problem using letter bigrams
+Solution to second problem using letter trigram
 """
 
 import re, collections
